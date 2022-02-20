@@ -8,7 +8,7 @@ Lost Ark Online AFK script created with AutoHotKey. Simply clicks your screen ev
 2. [Download the .ahk file](https://github.com/Logey/LAOAFK/releases/download/v1.0/laoafk.AHK).
 3. Open the .ahk file in a text editor (even Notepad is fine).
 4. Configure to your liking by editing the 'user-defined settings' section.
-    - You mainly want to make sure the `X` and `Y` variables are set to the center of your screen (half your screen resolution; `X` is width - `Y` is height). The rest you may leave as is.
+    - You mainly want to make sure the `X` and `Y` variables are set to the center of your screen (half your screen resolution; `X` is width - `Y` is height). e.g. for a 1920x1080 resolution, you would set `X = 960` and `Y = 540`. The rest you may leave as is if you like.
 5. Run the .ahk file.
 6. Click **Enable**!
    - You can now leave your computer and come back without worrying about needing to re-queue.
