@@ -1,5 +1,5 @@
 # LAOAFK
-Lost Ark Online AFK script created with AutoHotKey. Simply clicks your screen every now and then to prevent you from getting kicked, mainly to avoid the current queue issue in EU Central servers.
+Lost Ark Online AFK script created with AutoHotKey. Simply clicks your screen every now and then to prevent you from getting kicked, designed to keep you in-game and avoid the current queue issue in EU Central servers.
 
 ---
 
