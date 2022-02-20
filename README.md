@@ -3,7 +3,7 @@ Lost Ark Online AFK script created with AutoHotKey. Simply clicks your screen ev
 
 ---
 
-## Setup
+## Setup / Usage
 1. Install [AutoHotKey](https://www.autohotkey.com/).
 2. [Download the .ahk file](https://github.com/Logey/LAOAFK/releases/download/v1.0/laoafk.AHK).
 3. Open the .ahk file in a text editor (even Notepad is fine).
